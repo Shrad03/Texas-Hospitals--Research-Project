@@ -1,5 +1,5 @@
 # Texas-Hospitals--Research-Project
-In the project, it contains data analysis and visualizations. Tools used are python in google collab and power BI
+In the project, it contains data analysis and visualizations of Texas Hospitals. Tools used are python in google collab and power BI. Check out the link in the files to see the dashboard
 
 
 
