@@ -1,5 +1,5 @@
 # Texas-Hospitals--Research-Project
-In the project, it contains data analysis and visualizations of Texas Hospitals. Tools used are python in google collab and power BI. Check out the link in the files to see the dashboard
+The project contains data analysis and visualizations of Texas Hospitals. You can see an analysis of reimbursement rates for outpatient care in hospitals in all over Texas. Tools used are Python in Google Collab and Power BI. Check out the link in the files to see the dashboard
 
 
 
